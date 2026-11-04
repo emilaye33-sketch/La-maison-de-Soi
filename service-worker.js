@@ -1,7 +1,8 @@
-const CACHE = 'maison-de-soi-v2';
+const CACHE = 'maison-de-soi-v3';
 const FILES = [
   './',
   './index.html',
+  './portal.js',
   './manifest.webmanifest',
   './icon-192.png',
   './icon-512.png'
